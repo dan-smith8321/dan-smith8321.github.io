@@ -1,0 +1,311 @@
+/* start of styles.css for Index */
+navbar-dark .navbar-nav .nav-link {
+    color:#fff;
+    width:100%;
+}
+
+header {
+  background-color: #4385a3;
+}
+
+body  {
+  font-family: 'Merriweather', serif;/* Sets background colour */
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+  background-color: #4385a3;
+  color: #fff;
+  width:100%;
+
+}
+
+h1,h5 {
+  font-family: 'Ubuntu', sans-serif;
+  color:#fff;
+}
+
+h5{
+  text-decoration: underline;
+}
+
+/* section{
+  font-family: 'Merriweather', serif;
+  background-image: url("https://www.transparenttextures.com/patterns/basketball.png");
+  background-color: #4385a3;
+} */
+
+
+.top{
+  border:0px;
+}
+
+.helloSection{
+  height: 400px;
+  /* width: 750px; */
+  width:100%;
+  text-align: center;
+  color: black;
+  padding-top: 175px;
+  background-color: #90A8C3;
+  margin-top:1px;
+
+}
+
+.helloSectionRight{
+  background-color:#1B3B6F;
+  width:100%
+}
+
+.col-12{
+  border: 8px solid rgba(52,58,64);
+}
+
+.col-12-about{
+border:0px;
+}
+
+.col-lg-6{
+  border:0px;
+}
+.col-head{
+  border: 0px;
+}
+
+.col-bordered  {
+  border: 8px solid rgba(52,58,64);
+  text-align: center;
+  background-color: #4385a3;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+}
+
+.cardback{
+position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #4385a3;
+    background-clip: border-box;
+    border: 5px solid rgba(0,0,0,);
+    border-radius: .25rem;
+}
+
+footer{
+    background-color:#343a40;
+    color: #fff;
+    min-height:50px;
+    margin-top: 30px;
+    margin-bottom:fixed;
+}
+
+
+/* .CardIndex {
+  background: #4385a3;
+} */
+
+/* end of styles.css for Index */
+
+/* start of About Me styles.css */
+header {
+  background-color: #4385a3;
+}
+
+h4{
+  text-decoration: underline;
+  color:#fff;
+}
+
+h5{
+  color:#fff;
+  text-decoration: none;
+}
+
+}
+.container{
+  background-image: url("https://www.transparenttextures.com/patterns/basketball.png");
+  background-color: #4385a3;
+  font-style: underline;
+}
+
+.col-12about{
+  border: 0px;
+  width:100%;
+}
+
+.cardBlue{
+  background-color:#1B3B6F;
+  border:5px solid rgba(52,58,64);
+}
+
+.img-badge{
+  width:50px;
+  height:auto;
+}
+
+.img-badge2{
+  width:50px;
+  height:auto;
+
+}
+
+.img-japan{
+  width:20px;
+  height:auto;
+}
+
+.img-japan2{
+  width:20px;
+  height:auto;
+}
+
+.img-gaming{
+  width:20px;
+  height:auto;
+}
+
+.img-gaming2{
+  width:40px;
+  height:auto;
+}
+
+.img-wwe{
+  width:20px;
+  height:auto;
+}
+
+.img-wwe2{
+  width:20px;
+  height:auto;
+}
+
+ /* section{
+  font-family: 'Merriweather', serif;
+  background-image: url("https://www.transparenttextures.com/patterns/basketball.png");
+  background-color: #4385a3;
+}  */
+
+section.row {
+  position: fixed;
+}
+
+/* footer{
+  background-color:#343a40;
+  color: #fff;
+} */
+/* end of About Me styles.css */
+
+/* start of gallery */
+title {
+  font-size: 8px;
+}
+.navbar {
+    padding: .0rem 0rem;
+}
+
+header{
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-light.png");
+width:100%;
+}
+
+
+iframe{
+  min-height: 250px;
+  min-width: 100%;
+}
+
+.UniTitle{
+  margin-top: 10px;
+}
+
+.H1Sketch{
+    margin-top:15px;
+    text-align: center;
+    color:#fff;
+}
+
+.bodyContentUni{
+  margin-top: 30px;
+}
+
+.bodyContentSketch{
+  margin-top: 30px;
+}
+
+/*end of gallery */
+
+/*start of videos */
+
+
+.col-noborder{
+  border:0px;
+}
+
+.iframe1 {
+margin-top: 40px;
+margin-bottom: 30px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+margin-left: 20px;;
+height: 315px;
+width: 560px;
+}
+
+.iframe2 {
+margin-top: 40px;
+margin-bottom: 30px;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+-moz-box-shadow: 4px 4px 14px #000;
+-webkit-box-shadow: 4px 4px 14px #000;
+box-shadow: 4px 4px 14px #000;
+margin-left: 20px;
+height: 315px;
+width: 560px;
+}
+
+.noborder{
+  border:0px;
+}
+
+.bodyContent{
+  min-height: 600px;
+}
+
+/*end of videos */
+
+
+/* start of contact me */
+body  {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.form-control{
+  background-color: #fff;
+}
+
+.form-send{
+  background-color: #4385a3
+}
+.form-control::placeholder{
+  color: #000;
+}
+
+.btn-primary{
+  background-color: #343a40;
+border-color: #fff;
+border-width: 3px;
+}
+
+ .bodyContentContact{
+  min-height: 0px;
+}
+
+/* end of contact me */
